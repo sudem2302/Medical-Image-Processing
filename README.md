@@ -68,16 +68,16 @@ python main.py
 ## Screenshots
 
 ### Main Window
-![Main Window](screenshot/app.png)
+![Main Window](screenshots/app.png)
 
 ### Circle Detection
-![Edge Detection](screenshot/detect.jpg)
+![Edge Detection](screenshots/detect.jpg)
 
 ### Precise Edge Detection
-![Edge Detection](screenshot/kenar_tespit.png)
+![Edge Detection](screenshots/edge.png)
 
 ### Histogram
-![Histogram](screenshot/histogram.png)
+![Histogram](screenshots/histogram.png)
 
 
 
