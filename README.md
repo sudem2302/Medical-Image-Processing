@@ -68,17 +68,22 @@ python main.py
 ## Screenshots
 
 ### Main Window
-![Main Window](screenshots/app.png)
+![Main Window](screenshots_/app.png)
 
 ### Circle Detection
-![Edge Detection](screenshots/detect.jpg)
+![Edge Detection](screenshots_/circle.jpg)
 
 ### Precise Edge Detection
-![Edge Detection](screenshots/edge.png)
+![Edge Detection](screenshots_/edge.png)
 
 ### Histogram
-![Histogram](screenshots/histogram.png)
+![Histogram](screenshots_/histogram.png)
 
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
+---
 
-
+### Notes
+Ensure your system has a proper Python environment setup before running the application. If you encounter issues, check that all dependencies are correctly installed. 
+This project was designed as part of the BME268 COMPUTATIONAL METHODS IN ENGINEERING [A] course of Ankara University Biomedical Engineering department.
