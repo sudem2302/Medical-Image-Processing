@@ -65,6 +65,19 @@ python main.py
 - NumPy
 - Matplotlib
 
+## Screenshots
+
+### Main Window
+![Main Window](screenshot/app.png)
+
+### Circle Detection
+![Edge Detection](screenshot/detect.jpg)
+
+### Precise Edge Detection
+![Edge Detection](screenshot/kenar_tespit.png)
+
+### Histogram
+![Histogram](screenshot/histogram.png)
 
 
 
